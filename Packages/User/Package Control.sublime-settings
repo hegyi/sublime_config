@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1348746484,
+	"installed_packages":
+	[
+		"jQuery",
+		"Package Control",
+		"Rails Partial",
+		"RailsCasts Colour Scheme",
+		"RSpec",
+		"Simple Rails Navigator"
+	]
+}
