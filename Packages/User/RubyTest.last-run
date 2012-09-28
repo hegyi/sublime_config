@@ -1,4 +1,4 @@
 {
-	"last_test_run": "bundle exec cucumber features/category_selection.feature",
-	"last_test_working_dir": "/home/ahegyi/dev/simpleshop"
+	"last_test_run": "bundle exec rspec spec/lib/ordered_items_ascii_table_spec.rb",
+	"last_test_working_dir": "/home/ahegyi/ruby/simpleshop"
 }
