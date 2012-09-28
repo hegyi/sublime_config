@@ -1,12 +1,14 @@
 {
-	"auto_upgrade_last_run": 1348746484,
+	"auto_upgrade_last_run": 1348800312,
 	"installed_packages":
 	[
+		"Cucumber",
 		"jQuery",
 		"Package Control",
 		"Rails Partial",
 		"RailsCasts Colour Scheme",
 		"RSpec",
+		"RubyTest",
 		"Simple Rails Navigator"
 	]
 }
